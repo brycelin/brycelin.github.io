@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: About Me
 ---
 
-My name is Bryce Lin.
+My name is Bryce Lin. I am a:
+- Data Engineer
+- Data Scientist
+- Machine Learning Engineer
+- Security Engineer
+- Software Engineer
+- Entrepreneur
+- Father, Husband
 
-What else do you need?
-
-### My story
-
-Here is my story...
